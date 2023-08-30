@@ -1,0 +1,2 @@
+As a rule of thumb I2C cables should be as short as possible but not longer than one meter
+it is only intended for short distance communications within a single device
