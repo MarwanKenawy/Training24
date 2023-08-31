@@ -5,18 +5,23 @@ This Repo contains **Tasks and Assignments** of The Electrical Subteam of Roboti
 
 _Phase 1_:
 
-1. Task1:
+- Task1:
     1. Hello Gru
     2. Counting Down
     3. Task Manager
-2. Task2:
+- Task2:
     1. Lightning Dark
     2. Air Extraction To Fan
     3. Box of Shame
-3. Task3:
+- Task3:
     1. Signal To Engage
     2. Cookie Bots
-4. Task4:
+- Task4:
     1. Sky Clash
     2. Shrinkage Model
 
+_Phase 2_:
+
+- Task5:
+    1. The Birth of The System
+    2. Embracing Freedom: Linux
