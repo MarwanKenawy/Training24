@@ -1,3 +1,0 @@
-As V(LED) = 3.2v and I(LED) = 20mA so R(LED) = 160 ohm
-Power consumed by a branch (330 ohm + 160 ohm) = I^2*R = (20*10^-3)^2 * 490 = 0.196 watt
-Given power source  = 1440 watt, so we need 1440/0.196 = 7347 LEDs connected in parallel.

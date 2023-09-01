@@ -1,1 +1,0 @@
-MOSFETs are preferred over BJTs in H-bridges because they have lower on-state resistance, resulting in lower power dissipation and higher efficiency. They also have faster switching speeds and thus lower switching losses
