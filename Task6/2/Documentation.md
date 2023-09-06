@@ -3,10 +3,10 @@
 >
 > Rotary Encoders measure the number of rotations, the rotational angle, and the rotational position. Linear Encoders are also available to measure linear movement.
 
-![Encoder](img\Rotary-Encoder-Construction.jpg)
+![Encoder](img/Rotary-Encoder-Construction.jpg)
 
 ## Rotary Encoder Pinout
-![Encoder Pinout](img\rotary-encoder-module-pinout.png)
+![Encoder Pinout](img/rotary-encoder-module-pinout.png)
 - ***GND*** is the ground connection.
 - ***VCC*** is the positive supply voltage, which is typically between 3.3 and 5 volts.
 - ***SW*** is the output of the push button switch (active low). When the knob is depressed, the voltage goes LOW.
