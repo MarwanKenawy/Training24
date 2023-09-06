@@ -1,0 +1,3 @@
+the Digital Low Pass Filter (DLPF)setting for both the gyroscopes and accelerometers
+The accelerometer works with fs = 1kHz
+while gyroscope can work with fs = 1kHz or 8kHz according to the bandwidth and delay

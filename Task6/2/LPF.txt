@@ -1,0 +1,8 @@
+Given Diameter of the wheel = 40cm
+so, Radius = 20cm = 0.2m
+This indicates that the wheel covers 2*pi*r per revolution = 2*3.14*0.2 = 1.2566m
+Given velocity = 0.5m/s
+so, time covered per revolution = 1.2566/0.5 = 2.513 s
+Given encoder has resolution = 540 pulses per revolution
+so, time for 1 revolution = time for 540 pulses = 2.513 s
+so the frequency of encoder = 540/2.513 = 24.86 pulse/sec
