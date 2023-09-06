@@ -25,3 +25,7 @@ _Phase 2_:
 - Task5:
     1. The Birth of The System
     2. Embracing Freedom: Linux
+- Task6:
+    1. Precise Self-Localizing
+    2. Every Step Matter
+    3. Route Optimization
